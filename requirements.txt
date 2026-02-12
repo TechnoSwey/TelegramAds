@@ -1,0 +1,6 @@
+aiogram==3.4.1
+sqlalchemy==2.0.29
+aiosqlite==0.19.0
+cryptopay-sdk==1.1.1
+aiohttp==3.9.3
+apscheduler==3.10.4
